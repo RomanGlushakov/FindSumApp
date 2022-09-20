@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/FindSumAppFinal/app/src/main/res/drawable-v24/ic_brain_svgrepo_com.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FindSumAppFinal/app/src/main/res/drawable/circle_background.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FindSumAppFinal/app/src/main/res/layout/activity_main.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FindSumAppFinal/app/src/main/res/layout/fragment_choose_level.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FindSumAppFinal/app/src/main/res/layout/fragment_game.xml" value="0.24444444444444444" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FindSumAppFinal/app/src/main/res/layout/fragment_game_finished.xml" value="0.1757852077001013" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FindSumAppFinal/app/src/main/res/layout/fragment_welcome.xml" value="0.1762917933130699" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
